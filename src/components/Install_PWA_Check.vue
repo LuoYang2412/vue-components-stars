@@ -38,6 +38,6 @@ function installApp() {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 4px 10px;
+  margin: 4px 10px;
 }
 </style>
